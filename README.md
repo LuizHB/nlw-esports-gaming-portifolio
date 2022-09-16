@@ -10,3 +10,6 @@ Projeto construído no evento Next Level Week (NLW) da Rocketseat,
 - HTML
 - CSS
 - Git e Github
+
+## Preview
+![preview](preview.png)
